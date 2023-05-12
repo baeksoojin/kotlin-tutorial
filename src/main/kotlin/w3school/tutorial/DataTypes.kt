@@ -123,7 +123,7 @@ fun strings(){
         println(c)
     }
 
-    println("str.uppercase " + str.uppercase()) // toUpperCase (java)
+    println("str.uppercase " + str.uppercase()) // toUpperCase (java) (kotlin에서도 toUpperCase 사용가능)
     println(str)
 
     val s:String = "asd"// 문자열 연결을 +를 통해서 연결한다.
