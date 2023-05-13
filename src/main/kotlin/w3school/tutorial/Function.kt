@@ -5,6 +5,7 @@ fun fun1(){
 }
 
 
+
 fun fun2(name:String){
     println("fun2")
     println("name : " + name)
